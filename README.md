@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Fauzi Rizki Pratama  
+**NRP**: 5025211220  
+**Judul TA**: Perbandingan Kinerja Metode *Machine Learning* dan *Deep Learning* untuk Klasifikasi Multilabel Jenis Emosi  
+**Dosen Pembimbing**: Prof. Dr. Eng. Nanik Suciati, S.Kom., M.Kom.  
+**Dosen Ko-pembimbing**: Dini Adni Navastara, S.Kom., M.Sc.
 
 ---
 
